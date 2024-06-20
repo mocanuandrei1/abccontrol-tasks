@@ -7,3 +7,13 @@ body,
 :root {
   height: 100%;
 }
+
+.react-transform-component {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.react-transform-wrapper {
+  width: 100% !important;
+  height: 100% !important;
+}
